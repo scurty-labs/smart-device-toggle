@@ -1,0 +1,7 @@
+{
+    "uuid": "smart-device-toggle@scurty-labs",
+    "name": "Smart Device Toggle",
+    "description": "Toggle smart device on and off",
+    "icon": "flashlight-on",
+    "max-instances": -1
+}

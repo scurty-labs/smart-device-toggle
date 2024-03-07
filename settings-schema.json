@@ -1,0 +1,36 @@
+{
+
+    "switch-name" : {
+        "type" : "entry",
+        "default" : "",
+        "description" : "Custom Smart Device Name",
+        "tooltip" : "Name of the Smart Device"
+    },
+
+    "switch-ip" : {
+        "type" : "entry",
+        "default" : "",
+        "description" : "Smart Device IP Address",
+        "tooltip" : "IPv4 Address Smart Device"
+    },
+
+    "on-icon" : {
+        "type" : "iconfilechooser",
+        "description" : "Icon displayed for the 'On' state.",
+        "default": "flashlight-on"
+    },
+
+    "off-icon" : {
+        "type" : "iconfilechooser",
+        "description" : "Icon displayed for the 'Off' state.",
+        "default": "flashlight-off"
+    },
+
+    "python-bin" : {
+        "type" : "entry",
+        "default" : "python3",
+        "description" : "Python Path",
+        "tooltip" : "The file path to the Python binary used, this can differ per depending the user/system"
+    }
+  
+  }
