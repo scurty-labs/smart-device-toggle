@@ -17,6 +17,6 @@ By default, the call is just `python`
 
 # Discovering TP-Link Smart devices -
 After installing, you can run an included python script. The following command below will try to find all the existing
-smart devices connected to your local network. Copy the IP's to the applet config dialog under `Smart Device IP Address`
+smart devices connected to your local network. Copy a devices IP to the respective applet config dialog under `Smart Device IP Address`
 
 ```python ~/.local/share/cinnamon/applets/smart-device-toggle@scurty-labs/device-interface.py```
